@@ -4,6 +4,7 @@
 сообщения от выбранного клиента;
 общий входящий и исходящий трафик;
 вывести список клиентов с отрицательным балансом счета.
+## Скрины
 ![Screenshot_1](https://user-images.githubusercontent.com/108541122/176934976-0ab24dfa-24e6-4e68-ba83-25570aba240e.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/108541122/176934981-52b56a14-9d44-4720-911a-a0bd5986dbbe.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/108541122/176934990-ad6e1356-9f53-4ebf-8dc0-525030af04c0.png)

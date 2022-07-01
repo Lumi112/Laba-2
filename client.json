@@ -1,0 +1,24 @@
+[{
+    "name": "User1",
+    "login": "Login1234",
+    "password": "1234",
+    "ip": "192.168.123.132",
+    "balance": 26,
+    "messages": ["1", "2", "3"]
+},
+{
+    "name": "User2",
+    "login": "Login2341",
+    "password": "2341",
+    "ip": "192.168.123.131",
+    "balance": -5,
+    "messages": "12"
+},
+{
+    "name": "User3",
+    "login": "login4321",
+    "password": "4321",
+    "ip": "192.168.123.133",
+    "balance": 13,
+    "messages": ["1", "2", "3"]
+}]
